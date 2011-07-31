@@ -53,7 +53,7 @@
         <div class="head">
           <h3>Places</h3>
           <span class="result-number">11 results</span> </div>
-        <img src="assets/img/map.jpg" class="map" />
+        <div id="event_map_canvas" style="height: 153px; width: 270px;"></div>
         <div class="action"> <a href="">View all</a> </div>
       </div>
       <div class="search-item docs">
